@@ -1,0 +1,1272 @@
+[{
+  "_id": {
+    "$oid": "679ba56dd772fb1062c761d9"
+  },
+  "region": "Dakar",
+  "date": "2025-01-30",
+  "mean_ndvi": -0.02956673700902483,
+  "mean_evi": 0.02053784398222773,
+  "mean_ndwi": 0.0829293871713841,
+  "image_exported": true,
+  "image_description": "Dakar_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba57ad772fb1062c761da"
+  },
+  "region": "Thiès",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.13416984583498326,
+  "mean_evi": 0.8307700925692971,
+  "mean_ndwi": -0.18391328061681356,
+  "image_exported": true,
+  "image_description": "Thiès_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba58bd772fb1062c761db"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.011063646987479806,
+  "mean_evi": 0.23542383909283573,
+  "mean_ndwi": 0.02564821737824152,
+  "image_exported": true,
+  "image_description": "Saint-Louis_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba59dd772fb1062c761dc"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.18092255910958835,
+  "mean_evi": -1.3773579258216517,
+  "mean_ndwi": -0.14950687631320422,
+  "image_exported": true,
+  "image_description": "Ziguinchor_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba5add772fb1062c761dd"
+  },
+  "region": "Kaolack",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.09778079464308011,
+  "mean_evi": 0.7581238896725209,
+  "mean_ndwi": -0.15753098235408408,
+  "image_exported": true,
+  "image_description": "Kaolack_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba5bad772fb1062c761de"
+  },
+  "region": "Tambacounda",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.11695501247088036,
+  "mean_evi": 0.7434494513530424,
+  "mean_ndwi": -0.1692324781107617,
+  "image_exported": true,
+  "image_description": "Tambacounda_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba5d2d772fb1062c761df"
+  },
+  "region": "Matam",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.10462632096006254,
+  "mean_evi": 0.614084696190206,
+  "mean_ndwi": -0.1695463848795119,
+  "image_exported": true,
+  "image_description": "Matam_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba5e1d772fb1062c761e0"
+  },
+  "region": "Kolda",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.18729651871047526,
+  "mean_evi": -1.608209736418571,
+  "mean_ndwi": -0.1863985086404126,
+  "image_exported": true,
+  "image_description": "Kolda_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba5eed772fb1062c761e1"
+  },
+  "region": "Fatick",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.113479501611433,
+  "mean_evi": 0.7031658344309875,
+  "mean_ndwi": -0.19042290382673804,
+  "image_exported": true,
+  "image_description": "Fatick_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba600d772fb1062c761e2"
+  },
+  "region": "Louga",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.10257868474294146,
+  "mean_evi": 0.41626639117661374,
+  "mean_ndwi": -0.21438668001137484,
+  "image_exported": true,
+  "image_description": "Louga_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba683d772fb1062c761e3"
+  },
+  "region": "Kaffrine",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.12643317710513377,
+  "mean_evi": 0.7940092254448129,
+  "mean_ndwi": -0.21220879394270356,
+  "image_exported": true,
+  "image_description": "Kaffrine_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba68fd772fb1062c761e4"
+  },
+  "region": "Diourbel",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.12898721742436103,
+  "mean_evi": 0.5582792564565734,
+  "mean_ndwi": -0.22967247204509322,
+  "image_exported": true,
+  "image_description": "Diourbel_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba69bd772fb1062c761e5"
+  },
+  "region": "Sédhiou",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.2255911593589401,
+  "mean_evi": -3.0650854149923092,
+  "mean_ndwi": -0.19106467667578642,
+  "image_exported": true,
+  "image_description": "Sédhiou_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba6a8d772fb1062c761e6"
+  },
+  "region": "Kédougou",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.1141599610359724,
+  "mean_evi": -1.3898393606995108,
+  "mean_ndwi": -0.13257396235077587,
+  "image_exported": true,
+  "image_description": "Kédougou_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "679ba6b6d772fb1062c761e7"
+  },
+  "region": "Podor",
+  "date": "2025-01-30",
+  "mean_ndvi": 0.11016747106954262,
+  "mean_evi": 0.37468314354753524,
+  "mean_ndwi": -0.15808551202497714,
+  "image_exported": true,
+  "image_description": "Podor_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1fe864f12c8d2b8a99bb0"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": -0.02956673700902483,
+  "mean_evi": 0.02053784398222773,
+  "mean_ndwi": 0.0829293871713841,
+  "image_exported": true,
+  "image_description": "Dakar_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1fea04f12c8d2b8a99bb1"
+  },
+  "region": "Thiès",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.13416984583498326,
+  "mean_evi": 0.8307700925692972,
+  "mean_ndwi": -0.18391328061681356,
+  "image_exported": true,
+  "image_description": "Thiès_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1feb14f12c8d2b8a99bb2"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.011063646987479806,
+  "mean_evi": 0.23542383909283568,
+  "mean_ndwi": 0.02564821737824152,
+  "image_exported": true,
+  "image_description": "Saint-Louis_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1fec74f12c8d2b8a99bb3"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.18092255910958835,
+  "mean_evi": -1.3773579258216517,
+  "mean_ndwi": -0.14950687631320425,
+  "image_exported": true,
+  "image_description": "Ziguinchor_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1feda4f12c8d2b8a99bb4"
+  },
+  "region": "Kaolack",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.09778079464308011,
+  "mean_evi": 0.7581238896725209,
+  "mean_ndwi": -0.15753098235408408,
+  "image_exported": true,
+  "image_description": "Kaolack_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1fef34f12c8d2b8a99bb5"
+  },
+  "region": "Tambacounda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.11695501247088033,
+  "mean_evi": 0.7434494513530422,
+  "mean_ndwi": -0.16923247811076164,
+  "image_exported": true,
+  "image_description": "Tambacounda_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff094f12c8d2b8a99bb6"
+  },
+  "region": "Matam",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10462632096006252,
+  "mean_evi": 0.614084696190206,
+  "mean_ndwi": -0.16954638487951193,
+  "image_exported": true,
+  "image_description": "Matam_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff1a4f12c8d2b8a99bb7"
+  },
+  "region": "Kolda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.18729651871047526,
+  "mean_evi": -1.6082097364185703,
+  "mean_ndwi": -0.1863985086404126,
+  "image_exported": true,
+  "image_description": "Kolda_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff2e4f12c8d2b8a99bb8"
+  },
+  "region": "Fatick",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.113479501611433,
+  "mean_evi": 0.7031658344309873,
+  "mean_ndwi": -0.19042290382673804,
+  "image_exported": true,
+  "image_description": "Fatick_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff3f4f12c8d2b8a99bb9"
+  },
+  "region": "Louga",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10257868474294148,
+  "mean_evi": 0.41626639117661374,
+  "mean_ndwi": -0.21438668001137484,
+  "image_exported": true,
+  "image_description": "Louga_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff504f12c8d2b8a99bba"
+  },
+  "region": "Kaffrine",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12643317710513377,
+  "mean_evi": 0.7940092254448128,
+  "mean_ndwi": -0.21220879394270356,
+  "image_exported": true,
+  "image_description": "Kaffrine_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff704f12c8d2b8a99bbb"
+  },
+  "region": "Diourbel",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12898721742436106,
+  "mean_evi": 0.5582792564565734,
+  "mean_ndwi": -0.22967247204509322,
+  "image_exported": true,
+  "image_description": "Diourbel_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff7e4f12c8d2b8a99bbc"
+  },
+  "region": "Sédhiou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.2255911593589401,
+  "mean_evi": -3.0650854149923092,
+  "mean_ndwi": -0.19106467667578642,
+  "image_exported": true,
+  "image_description": "Sédhiou_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ff934f12c8d2b8a99bbd"
+  },
+  "region": "Kédougou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1141599610359724,
+  "mean_evi": -1.3898393606995108,
+  "mean_ndwi": -0.13257396235077587,
+  "image_exported": true,
+  "image_description": "Kédougou_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a1ffa44f12c8d2b8a99bbe"
+  },
+  "region": "Podor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.11016747106954264,
+  "mean_evi": 0.37468314354753524,
+  "mean_ndwi": -0.15808551202497717,
+  "image_exported": true,
+  "image_description": "Podor_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a210daf5e4b03cee2c6abe"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.03182518752715109,
+  "mean_evi": 0.2406580255144793,
+  "mean_ndwi": 0.014117209888418277
+},
+{
+  "_id": {
+    "$oid": "67a210dcf5e4b03cee2c6abf"
+  },
+  "region": "Thiès",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.26470449696394915,
+  "mean_evi": 0.4462479060491841,
+  "mean_ndwi": -0.42068807725238805
+},
+{
+  "_id": {
+    "$oid": "67a210def5e4b03cee2c6ac0"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-02-04",
+  "mean_ndvi": -0.12599265304862253,
+  "mean_evi": 0.2549074375300243,
+  "mean_ndwi": 0.17963117678309953
+},
+{
+  "_id": {
+    "$oid": "67a210e0f5e4b03cee2c6ac1"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.41356641829235075,
+  "mean_evi": 0.6137456431929353,
+  "mean_ndwi": -0.43550625585829744
+},
+{
+  "_id": {
+    "$oid": "67a210e1f5e4b03cee2c6ac2"
+  },
+  "region": "Kaolack",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.11750240792944898,
+  "mean_evi": 0.34351176240081194,
+  "mean_ndwi": -0.20400343293744444
+},
+{
+  "_id": {
+    "$oid": "67a210e6f5e4b03cee2c6ac3"
+  },
+  "region": "Tambacounda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.21513020634985303,
+  "mean_evi": 0.29617037880851427,
+  "mean_ndwi": -0.405503010930441
+},
+{
+  "_id": {
+    "$oid": "67a210e7f5e4b03cee2c6ac4"
+  },
+  "region": "Matam",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.20905051811624878,
+  "mean_evi": 0.3216646502039468,
+  "mean_ndwi": -0.3619411047522249
+},
+{
+  "_id": {
+    "$oid": "67a210ebf5e4b03cee2c6ac5"
+  },
+  "region": "Kolda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.3618327837557203,
+  "mean_evi": 0.6529847859280762,
+  "mean_ndwi": -0.4793193558172529
+},
+{
+  "_id": {
+    "$oid": "67a210eff5e4b03cee2c6ac6"
+  },
+  "region": "Fatick",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.21617643355412455,
+  "mean_evi": 0.357586797075165,
+  "mean_ndwi": -0.36805679517403694
+},
+{
+  "_id": {
+    "$oid": "67a210f0f5e4b03cee2c6ac7"
+  },
+  "region": "Louga",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.19314348461489647,
+  "mean_evi": 0.288123589395786,
+  "mean_ndwi": -0.39181727196699745
+},
+{
+  "_id": {
+    "$oid": "67a210f2f5e4b03cee2c6ac8"
+  },
+  "region": "Kaffrine",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.22534076833856334,
+  "mean_evi": 0.3367865932707812,
+  "mean_ndwi": -0.4083592910408313
+},
+{
+  "_id": {
+    "$oid": "67a210f4f5e4b03cee2c6ac9"
+  },
+  "region": "Diourbel",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.2207001179749907,
+  "mean_evi": 0.3571254327748556,
+  "mean_ndwi": -0.39590514613972333
+},
+{
+  "_id": {
+    "$oid": "67a210f5f5e4b03cee2c6aca"
+  },
+  "region": "Sédhiou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.3479988495478589,
+  "mean_evi": 1.331782421480282,
+  "mean_ndwi": -0.3300087679711846
+},
+{
+  "_id": {
+    "$oid": "67a210f7f5e4b03cee2c6acb"
+  },
+  "region": "Kédougou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.2955685074794239,
+  "mean_evi": 0.5208221901261715,
+  "mean_ndwi": -0.43592599105296875
+},
+{
+  "_id": {
+    "$oid": "67a210f9f5e4b03cee2c6acc"
+  },
+  "region": "Podor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1906452595807674,
+  "mean_evi": 0.3128478511507229,
+  "mean_ndwi": -0.33725073391431615
+},
+{
+  "_id": {
+    "$oid": "67a21609b2c87cb977554101"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.02198722663933864,
+  "mean_evi": 0.0859303100008002,
+  "mean_ndwi": -0.01318965005998662
+},
+{
+  "_id": {
+    "$oid": "67a2160ab2c87cb977554102"
+  },
+  "region": "Thiès",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.13149163745943743,
+  "mean_evi": 1.1705504694521056,
+  "mean_ndwi": -0.17839633653024034
+},
+{
+  "_id": {
+    "$oid": "67a2160cb2c87cb977554103"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-02-04",
+  "mean_ndvi": -0.004586793919307095,
+  "mean_evi": 0.25782998311684496,
+  "mean_ndwi": 0.03261728672874469
+},
+{
+  "_id": {
+    "$oid": "67a2160db2c87cb977554104"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1863170542888097,
+  "mean_evi": -1.256290386197891,
+  "mean_ndwi": -0.16317121455492703
+},
+{
+  "_id": {
+    "$oid": "67a2160fb2c87cb977554105"
+  },
+  "region": "Kaolack",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.07130285150970793,
+  "mean_evi": 0.5825017423862431,
+  "mean_ndwi": -0.11673698029567432
+},
+{
+  "_id": {
+    "$oid": "67a21610b2c87cb977554106"
+  },
+  "region": "Tambacounda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.09902617384732779,
+  "mean_evi": 0.701945164044814,
+  "mean_ndwi": -0.157968550428662
+},
+{
+  "_id": {
+    "$oid": "67a21612b2c87cb977554107"
+  },
+  "region": "Matam",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12438631960395793,
+  "mean_evi": 0.14112393675762472,
+  "mean_ndwi": -0.16544413237457567
+},
+{
+  "_id": {
+    "$oid": "67a21614b2c87cb977554108"
+  },
+  "region": "Kolda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1631366479566394,
+  "mean_evi": -1.2632714448373956,
+  "mean_ndwi": -0.1760431452022336
+},
+{
+  "_id": {
+    "$oid": "67a21615b2c87cb977554109"
+  },
+  "region": "Fatick",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.113799243714579,
+  "mean_evi": 0.6575487030185349,
+  "mean_ndwi": -0.1881927644351555
+},
+{
+  "_id": {
+    "$oid": "67a21616b2c87cb97755410a"
+  },
+  "region": "Louga",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10229119251155488,
+  "mean_evi": 0.4966876519365642,
+  "mean_ndwi": -0.20632905718426997
+},
+{
+  "_id": {
+    "$oid": "67a21618b2c87cb97755410b"
+  },
+  "region": "Kaffrine",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12219101798498747,
+  "mean_evi": 0.7502276672642988,
+  "mean_ndwi": -0.20930707265295795
+},
+{
+  "_id": {
+    "$oid": "67a21619b2c87cb97755410c"
+  },
+  "region": "Diourbel",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12714754881612658,
+  "mean_evi": 0.6049669024342266,
+  "mean_ndwi": -0.2227251761737815
+},
+{
+  "_id": {
+    "$oid": "67a2161eb2c87cb97755410d"
+  },
+  "region": "Sédhiou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.19637666578776092,
+  "mean_evi": -2.338612440307085,
+  "mean_ndwi": -0.16511078209348007
+},
+{
+  "_id": {
+    "$oid": "67a21621b2c87cb97755410e"
+  },
+  "region": "Kédougou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10888916843169393,
+  "mean_evi": -1.1110459288885486,
+  "mean_ndwi": -0.1332410519913987
+},
+{
+  "_id": {
+    "$oid": "67a21624b2c87cb97755410f"
+  },
+  "region": "Podor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10626017167701143,
+  "mean_evi": 0.4149944561220349,
+  "mean_ndwi": -0.14423834502146848
+},
+{
+  "_id": {
+    "$oid": "67a21748b18093e72404efaa"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.02198722663933864,
+  "mean_evi": 0.0859303100008002,
+  "mean_ndwi": -0.01318965005998662
+},
+{
+  "_id": {
+    "$oid": "67a21749b18093e72404efab"
+  },
+  "region": "Thiès",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.13149163745943743,
+  "mean_evi": 1.1705504694521056,
+  "mean_ndwi": -0.17839633653024034
+},
+{
+  "_id": {
+    "$oid": "67a21749b18093e72404efac"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-02-04",
+  "mean_ndvi": -0.004586793919307095,
+  "mean_evi": 0.25782998311684496,
+  "mean_ndwi": 0.03261728672874469
+},
+{
+  "_id": {
+    "$oid": "67a2174ab18093e72404efad"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1863170542888097,
+  "mean_evi": -1.256290386197891,
+  "mean_ndwi": -0.16317121455492703
+},
+{
+  "_id": {
+    "$oid": "67a2174ab18093e72404efae"
+  },
+  "region": "Kaolack",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.07130285150970793,
+  "mean_evi": 0.5825017423862431,
+  "mean_ndwi": -0.11673698029567432
+},
+{
+  "_id": {
+    "$oid": "67a2174bb18093e72404efaf"
+  },
+  "region": "Tambacounda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.09902617384732779,
+  "mean_evi": 0.701945164044814,
+  "mean_ndwi": -0.157968550428662
+},
+{
+  "_id": {
+    "$oid": "67a2174bb18093e72404efb0"
+  },
+  "region": "Matam",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12438631960395793,
+  "mean_evi": 0.14112393675762472,
+  "mean_ndwi": -0.16544413237457567
+},
+{
+  "_id": {
+    "$oid": "67a2174cb18093e72404efb1"
+  },
+  "region": "Kolda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1631366479566394,
+  "mean_evi": -1.2632714448373956,
+  "mean_ndwi": -0.1760431452022336
+},
+{
+  "_id": {
+    "$oid": "67a2174db18093e72404efb2"
+  },
+  "region": "Fatick",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.113799243714579,
+  "mean_evi": 0.6575487030185349,
+  "mean_ndwi": -0.1881927644351555
+},
+{
+  "_id": {
+    "$oid": "67a2174db18093e72404efb3"
+  },
+  "region": "Louga",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10229119251155488,
+  "mean_evi": 0.4966876519365642,
+  "mean_ndwi": -0.20632905718426997
+},
+{
+  "_id": {
+    "$oid": "67a2174eb18093e72404efb4"
+  },
+  "region": "Kaffrine",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12219101798498747,
+  "mean_evi": 0.7502276672642988,
+  "mean_ndwi": -0.20930707265295795
+},
+{
+  "_id": {
+    "$oid": "67a2174eb18093e72404efb5"
+  },
+  "region": "Diourbel",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12714754881612658,
+  "mean_evi": 0.6049669024342266,
+  "mean_ndwi": -0.2227251761737815
+},
+{
+  "_id": {
+    "$oid": "67a2174fb18093e72404efb6"
+  },
+  "region": "Sédhiou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.19637666578776092,
+  "mean_evi": -2.338612440307085,
+  "mean_ndwi": -0.16511078209348007
+},
+{
+  "_id": {
+    "$oid": "67a21750b18093e72404efb7"
+  },
+  "region": "Kédougou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10888916843169393,
+  "mean_evi": -1.1110459288885486,
+  "mean_ndwi": -0.1332410519913987
+},
+{
+  "_id": {
+    "$oid": "67a21750b18093e72404efb8"
+  },
+  "region": "Podor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10626017167701143,
+  "mean_evi": 0.4149944561220349,
+  "mean_ndwi": -0.14423834502146848
+},
+{
+  "_id": {
+    "$oid": "67a2193ab96be179d9291436"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.02198722663933864,
+  "mean_evi": 0.0859303100008002,
+  "mean_ndwi": -0.01318965005998662,
+  "image_exported": true,
+  "image_description": "Dakar_Sentinel2"
+},
+{
+  "_id": {
+    "$oid": "67a219da75c744d575d99ddb"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.02198722663933864,
+  "mean_evi": 0.0859303100008002,
+  "mean_ndwi": -0.01318965005998662
+},
+{
+  "_id": {
+    "$oid": "67a219db75c744d575d99ddc"
+  },
+  "region": "Thiès",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.13149163745943743,
+  "mean_evi": 1.1705504694521056,
+  "mean_ndwi": -0.17839633653024034
+},
+{
+  "_id": {
+    "$oid": "67a219db75c744d575d99ddd"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-02-04",
+  "mean_ndvi": -0.004586793919307095,
+  "mean_evi": 0.25782998311684496,
+  "mean_ndwi": 0.03261728672874469
+},
+{
+  "_id": {
+    "$oid": "67a219dc75c744d575d99dde"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1863170542888097,
+  "mean_evi": -1.256290386197891,
+  "mean_ndwi": -0.16317121455492703
+},
+{
+  "_id": {
+    "$oid": "67a219dc75c744d575d99ddf"
+  },
+  "region": "Kaolack",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.07130285150970793,
+  "mean_evi": 0.5825017423862431,
+  "mean_ndwi": -0.11673698029567432
+},
+{
+  "_id": {
+    "$oid": "67a219dd75c744d575d99de0"
+  },
+  "region": "Tambacounda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.09902617384732779,
+  "mean_evi": 0.701945164044814,
+  "mean_ndwi": -0.157968550428662
+},
+{
+  "_id": {
+    "$oid": "67a219de75c744d575d99de1"
+  },
+  "region": "Matam",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12438631960395793,
+  "mean_evi": 0.14112393675762472,
+  "mean_ndwi": -0.16544413237457567
+},
+{
+  "_id": {
+    "$oid": "67a219de75c744d575d99de2"
+  },
+  "region": "Kolda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1631366479566394,
+  "mean_evi": -1.2632714448373956,
+  "mean_ndwi": -0.1760431452022336
+},
+{
+  "_id": {
+    "$oid": "67a219df75c744d575d99de3"
+  },
+  "region": "Fatick",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.113799243714579,
+  "mean_evi": 0.6575487030185349,
+  "mean_ndwi": -0.1881927644351555
+},
+{
+  "_id": {
+    "$oid": "67a219df75c744d575d99de4"
+  },
+  "region": "Louga",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10229119251155488,
+  "mean_evi": 0.4966876519365642,
+  "mean_ndwi": -0.20632905718426997
+},
+{
+  "_id": {
+    "$oid": "67a219e075c744d575d99de5"
+  },
+  "region": "Kaffrine",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12219101798498747,
+  "mean_evi": 0.7502276672642988,
+  "mean_ndwi": -0.20930707265295795
+},
+{
+  "_id": {
+    "$oid": "67a219e075c744d575d99de6"
+  },
+  "region": "Diourbel",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12714754881612658,
+  "mean_evi": 0.6049669024342266,
+  "mean_ndwi": -0.2227251761737815
+},
+{
+  "_id": {
+    "$oid": "67a219e075c744d575d99de7"
+  },
+  "region": "Sédhiou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.19637666578776092,
+  "mean_evi": -2.338612440307085,
+  "mean_ndwi": -0.16511078209348007
+},
+{
+  "_id": {
+    "$oid": "67a219e175c744d575d99de8"
+  },
+  "region": "Kédougou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10888916843169393,
+  "mean_evi": -1.1110459288885486,
+  "mean_ndwi": -0.1332410519913987
+},
+{
+  "_id": {
+    "$oid": "67a219e175c744d575d99de9"
+  },
+  "region": "Podor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10626017167701143,
+  "mean_evi": 0.4149944561220349,
+  "mean_ndwi": -0.14423834502146848
+},
+{
+  "_id": {
+    "$oid": "67a2242873ea9b9975624f4c"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.02198722663933864,
+  "mean_evi": 0.0859303100008002,
+  "mean_ndwi": -0.01318965005998662
+},
+{
+  "_id": {
+    "$oid": "67a2242973ea9b9975624f4d"
+  },
+  "region": "Thiès",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.13149163745943743,
+  "mean_evi": 1.1705504694521056,
+  "mean_ndwi": -0.17839633653024034
+},
+{
+  "_id": {
+    "$oid": "67a2242a73ea9b9975624f4e"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-02-04",
+  "mean_ndvi": -0.004586793919307095,
+  "mean_evi": 0.25782998311684496,
+  "mean_ndwi": 0.03261728672874469
+},
+{
+  "_id": {
+    "$oid": "67a2242c73ea9b9975624f4f"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1863170542888097,
+  "mean_evi": -1.256290386197891,
+  "mean_ndwi": -0.16317121455492703
+},
+{
+  "_id": {
+    "$oid": "67a2242c73ea9b9975624f50"
+  },
+  "region": "Kaolack",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.07130285150970793,
+  "mean_evi": 0.5825017423862431,
+  "mean_ndwi": -0.11673698029567432
+},
+{
+  "_id": {
+    "$oid": "67a2242c73ea9b9975624f51"
+  },
+  "region": "Tambacounda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.09902617384732779,
+  "mean_evi": 0.701945164044814,
+  "mean_ndwi": -0.157968550428662
+},
+{
+  "_id": {
+    "$oid": "67a2242d73ea9b9975624f52"
+  },
+  "region": "Matam",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12438631960395793,
+  "mean_evi": 0.14112393675762472,
+  "mean_ndwi": -0.16544413237457567
+},
+{
+  "_id": {
+    "$oid": "67a2242f73ea9b9975624f53"
+  },
+  "region": "Kolda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1631366479566394,
+  "mean_evi": -1.2632714448373956,
+  "mean_ndwi": -0.1760431452022336
+},
+{
+  "_id": {
+    "$oid": "67a2243273ea9b9975624f54"
+  },
+  "region": "Fatick",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.113799243714579,
+  "mean_evi": 0.6575487030185349,
+  "mean_ndwi": -0.1881927644351555
+},
+{
+  "_id": {
+    "$oid": "67a2243273ea9b9975624f55"
+  },
+  "region": "Louga",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10229119251155488,
+  "mean_evi": 0.4966876519365642,
+  "mean_ndwi": -0.20632905718426997
+},
+{
+  "_id": {
+    "$oid": "67a2243273ea9b9975624f56"
+  },
+  "region": "Kaffrine",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12219101798498747,
+  "mean_evi": 0.7502276672642988,
+  "mean_ndwi": -0.20930707265295795
+},
+{
+  "_id": {
+    "$oid": "67a2243373ea9b9975624f57"
+  },
+  "region": "Diourbel",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12714754881612658,
+  "mean_evi": 0.6049669024342266,
+  "mean_ndwi": -0.2227251761737815
+},
+{
+  "_id": {
+    "$oid": "67a2243373ea9b9975624f58"
+  },
+  "region": "Sédhiou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.19637666578776092,
+  "mean_evi": -2.338612440307085,
+  "mean_ndwi": -0.16511078209348007
+},
+{
+  "_id": {
+    "$oid": "67a2243473ea9b9975624f59"
+  },
+  "region": "Kédougou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10888916843169393,
+  "mean_evi": -1.1110459288885486,
+  "mean_ndwi": -0.1332410519913987
+},
+{
+  "_id": {
+    "$oid": "67a2243473ea9b9975624f5a"
+  },
+  "region": "Podor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10626017167701143,
+  "mean_evi": 0.4149944561220349,
+  "mean_ndwi": -0.14423834502146848
+},
+{
+  "_id": {
+    "$oid": "67a237fabf8c487bc77e5d36"
+  },
+  "region": "Dakar",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.02198722663933864,
+  "mean_evi": 0.0859303100008002,
+  "mean_ndwi": -0.01318965005998662
+},
+{
+  "_id": {
+    "$oid": "67a237fdbf8c487bc77e5d37"
+  },
+  "region": "Thiès",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.13149163745943743,
+  "mean_evi": 1.1705504694521056,
+  "mean_ndwi": -0.17839633653024034
+},
+{
+  "_id": {
+    "$oid": "67a237ffbf8c487bc77e5d38"
+  },
+  "region": "Saint-Louis",
+  "date": "2025-02-04",
+  "mean_ndvi": -0.004586793919307095,
+  "mean_evi": 0.25782998311684496,
+  "mean_ndwi": 0.03261728672874469
+},
+{
+  "_id": {
+    "$oid": "67a237ffbf8c487bc77e5d39"
+  },
+  "region": "Ziguinchor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1863170542888097,
+  "mean_evi": -1.256290386197891,
+  "mean_ndwi": -0.16317121455492703
+},
+{
+  "_id": {
+    "$oid": "67a23800bf8c487bc77e5d3a"
+  },
+  "region": "Kaolack",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.07130285150970793,
+  "mean_evi": 0.5825017423862431,
+  "mean_ndwi": -0.11673698029567432
+},
+{
+  "_id": {
+    "$oid": "67a23802bf8c487bc77e5d3b"
+  },
+  "region": "Tambacounda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.09902617384732779,
+  "mean_evi": 0.701945164044814,
+  "mean_ndwi": -0.157968550428662
+},
+{
+  "_id": {
+    "$oid": "67a23802bf8c487bc77e5d3c"
+  },
+  "region": "Matam",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12438631960395793,
+  "mean_evi": 0.14112393675762472,
+  "mean_ndwi": -0.16544413237457567
+},
+{
+  "_id": {
+    "$oid": "67a23805bf8c487bc77e5d3d"
+  },
+  "region": "Kolda",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.1631366479566394,
+  "mean_evi": -1.2632714448373956,
+  "mean_ndwi": -0.1760431452022336
+},
+{
+  "_id": {
+    "$oid": "67a23808bf8c487bc77e5d3e"
+  },
+  "region": "Fatick",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.113799243714579,
+  "mean_evi": 0.6575487030185349,
+  "mean_ndwi": -0.1881927644351555
+},
+{
+  "_id": {
+    "$oid": "67a2380bbf8c487bc77e5d3f"
+  },
+  "region": "Louga",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10229119251155488,
+  "mean_evi": 0.4966876519365642,
+  "mean_ndwi": -0.20632905718426997
+},
+{
+  "_id": {
+    "$oid": "67a2380cbf8c487bc77e5d40"
+  },
+  "region": "Kaffrine",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12219101798498747,
+  "mean_evi": 0.7502276672642988,
+  "mean_ndwi": -0.20930707265295795
+},
+{
+  "_id": {
+    "$oid": "67a23811bf8c487bc77e5d41"
+  },
+  "region": "Diourbel",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.12714754881612658,
+  "mean_evi": 0.6049669024342266,
+  "mean_ndwi": -0.2227251761737815
+},
+{
+  "_id": {
+    "$oid": "67a23816bf8c487bc77e5d42"
+  },
+  "region": "Sédhiou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.19637666578776092,
+  "mean_evi": -2.338612440307085,
+  "mean_ndwi": -0.16511078209348007
+},
+{
+  "_id": {
+    "$oid": "67a23822bf8c487bc77e5d43"
+  },
+  "region": "Kédougou",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10888916843169393,
+  "mean_evi": -1.1110459288885486,
+  "mean_ndwi": -0.1332410519913987
+},
+{
+  "_id": {
+    "$oid": "67a23822bf8c487bc77e5d44"
+  },
+  "region": "Podor",
+  "date": "2025-02-04",
+  "mean_ndvi": 0.10626017167701143,
+  "mean_evi": 0.4149944561220349,
+  "mean_ndwi": -0.14423834502146848
+}]

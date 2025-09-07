@@ -1,0 +1,4852 @@
+[{
+  "_id": "Dakar_2024-10",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.0034517447373173284,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.13270330941805275,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.675815728025782,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:07:24.361243",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Dakar",
+  "year": 2024
+},
+{
+  "_id": "Dakar_2024-11",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.009899679190574856,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.052038213941786024,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.810511851151716,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:08:01.478783",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Dakar",
+  "year": 2024
+},
+{
+  "_id": "Dakar_2024-12",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.03601979473758944,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.05267399613575269,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.9216885806415,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:08:36.276389",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Dakar",
+  "year": 2024
+},
+{
+  "_id": "Dakar_2025-01",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.019255797218167687,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.05066851133941322,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.566193500861687,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:09:09.656674",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-02",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.0029295311650683665,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.04810567129225958,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 24.348120865069234,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:09:42.958386",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-03",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.0006299700025782574,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.04615453084309896,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.61945469876389,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:10:13.759820",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-04",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.0028406918537841517,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:10:45.605646",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2024-10",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.5313824922345064,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.19303018981774858,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.579133444930164,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:11:12.961569",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Thiès",
+  "year": 2024
+},
+{
+  "_id": "Thiès_2024-11",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.38747401405218374,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09760895795953163,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.58863068119257,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:11:43.951061",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Thiès",
+  "year": 2024
+},
+{
+  "_id": "Thiès_2024-12",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2882205523670735,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09827313853470217,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.430277710061205,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:12:12.827296",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Thiès",
+  "year": 2024
+},
+{
+  "_id": "Thiès_2025-01",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2584519045359479,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09617166225764436,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.27471179838875,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:12:44.672676",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-02",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.20419032311877358,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09471354547604442,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.526094001397666,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:13:15.699779",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-03",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.17461345145533486,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.0942927255605209,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.597593751298064,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:13:48.072147",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-04",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19454776042509175,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:14:20.109835",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2024-10",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.031322275323031216,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.05130055938814459,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.41155567914609,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:14:47.965868",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Saint-Louis",
+  "year": 2024
+},
+{
+  "_id": "Saint-Louis_2024-11",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.008239498294143917,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.04132576909140935,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.421992766703738,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:15:16.930458",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Saint-Louis",
+  "year": 2024
+},
+{
+  "_id": "Saint-Louis_2024-12",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.011603904029961986,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.043835163966118834,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.860255002975975,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:15:49.502987",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Saint-Louis",
+  "year": 2024
+},
+{
+  "_id": "Saint-Louis_2025-01",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.02560060221044362,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.04204959681872765,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.31426475036352,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:16:17.667786",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-02",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.04750569449991926,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.04012961108668321,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.46123842558717,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:16:48.381931",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-03",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.021292549019283333,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03896816289992559,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.165808200555205,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:17:17.261053",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-04",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.053003603842421323,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:17:46.240864",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2024-10",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.29869070284543536,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.42201492430676074,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.56498209386109,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:18:13.585691",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Ziguinchor",
+  "year": 2024
+},
+{
+  "_id": "Ziguinchor_2024-11",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.517791842506951,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.2240688912533854,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.768191782435736,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:18:44.096189",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Ziguinchor",
+  "year": 2024
+},
+{
+  "_id": "Ziguinchor_2024-12",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.46675007414486913,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.20281830144701538,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.128844269091587,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:19:15.122238",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Ziguinchor",
+  "year": 2024
+},
+{
+  "_id": "Ziguinchor_2025-01",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.44286716592500647,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.20191364651580176,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.44990372590587,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:19:46.369613",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-02",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.40049637454497583,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.20163901253815064,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.678258713072807,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:20:17.793269",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-03",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3827994764586191,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.20120820769393277,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.49489154863187,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:20:48.513428",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-04",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.39174041428759176,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:21:19.640136",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2024-10",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.38081610713932823,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.28188634705630455,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.21945754785412,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:21:47.078436",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Kaolack",
+  "year": 2024
+},
+{
+  "_id": "Kaolack_2024-11",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.33232330092069584,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.11521542981828439,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.08766219700186,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:22:16.063211",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Kaolack",
+  "year": 2024
+},
+{
+  "_id": "Kaolack_2024-12",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19092721867550497,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.11188758871251163,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.277125566444568,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:22:45.146739",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Kaolack",
+  "year": 2024
+},
+{
+  "_id": "Kaolack_2025-01",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1958378151454792,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10869083376321526,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.49498778626844,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:23:14.127559",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-02",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.14388089541680393,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10838615259002164,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.468187377790002,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:23:42.603159",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-03",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.13061284591638597,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10829168259774617,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.53431323628121,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:24:11.267543",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-04",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1465338132129444,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:24:40.651844",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2024-10",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.5004117946274965,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.25815081253620814,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.373319601056494,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:25:08.305818",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Tambacounda",
+  "year": 2024
+},
+{
+  "_id": "Tambacounda_2024-11",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.36963867718152826,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10961662342795889,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.887800332331835,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:25:36.459205",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Tambacounda",
+  "year": 2024
+},
+{
+  "_id": "Tambacounda_2024-12",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2621604307516736,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10820011623505803,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.76367257680653,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:26:05.644006",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Tambacounda",
+  "year": 2024
+},
+{
+  "_id": "Tambacounda_2025-01",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.23733166646856765,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10763889252024568,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.98259123710221,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:26:36.466975",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-02",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.18738792895370385,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10746934249449042,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.49969940463234,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:27:05.039195",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-03",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.18576800300282884,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10718109367133175,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 39.59178327310707,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:27:33.811070",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-04",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19278230475710723,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:28:02.589502",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Matam_2024-10",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.09388129898110596,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03562229113927197,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.8433611461806,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:28:30.108163",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Matam",
+  "year": 2024
+},
+{
+  "_id": "Matam_2024-11",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1546034620866854,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.0265806676614746,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.301239375726084,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:28:58.089044",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Matam",
+  "year": 2024
+},
+{
+  "_id": "Matam_2024-12",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.15876689713620112,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.026003927177360785,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.277223256324305,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:29:27.170134",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Matam",
+  "year": 2024
+},
+{
+  "_id": "Matam_2025-01",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19198171502999628,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.024657670042617152,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.47833584215465,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:29:55.532982",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-02",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.17861539589455758,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.019447853637842672,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.5670178746779,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:30:23.641062",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-03",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.16946661387146011,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.010393680612289059,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 37.798887090451274,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:30:52.264146",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-04",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.16618161771209203,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:31:20.934808",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2024-10",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.4381091613758087,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.33604513345573206,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.078222426745242,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:31:47.868374",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Kolda",
+  "year": 2024
+},
+{
+  "_id": "Kolda_2024-11",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.6097809270350328,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.12802161837248824,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.369891851739226,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:32:18.689143",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Kolda",
+  "year": 2024
+},
+{
+  "_id": "Kolda_2024-12",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.38779219407479315,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10975413650012594,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.786494958543244,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:32:47.621167",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Kolda",
+  "year": 2024
+},
+{
+  "_id": "Kolda_2025-01",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.361316937399611,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10909955002374143,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.484318638642947,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:33:15.929115",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-02",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3089251671388865,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10896692135448538,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.999758933155704,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:33:44.472873",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-03",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2806727238233661,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1088673757616031,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.74855307093776,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:34:14.196860",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-04",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.30160484305604485,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:34:42.560333",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2024-10",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.38453433302322954,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.275409774758826,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.484754394727474,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:35:09.713543",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Fatick",
+  "year": 2024
+},
+{
+  "_id": "Fatick_2024-11",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.33329053717578366,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.12088524284676762,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.701981382352585,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:35:38.677645",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Fatick",
+  "year": 2024
+},
+{
+  "_id": "Fatick_2024-12",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1985792872191716,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.11661441815355482,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.415810296528605,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:36:07.248543",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Fatick",
+  "year": 2024
+},
+{
+  "_id": "Fatick_2025-01",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19813965153290097,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.11351452803839077,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.107694736099006,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:36:35.771274",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-02",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1576114691933908,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1127620851960169,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.48386521569165,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:37:03.725134",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-03",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.14023673071990747,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.11253505079776838,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.17798372765509,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:37:31.394801",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-04",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.15568832034375724,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:37:59.375577",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Louga_2024-10",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.33108843930544185,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.07314531900151643,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 36.47718562928122,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:38:26.558833",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Louga",
+  "year": 2024
+},
+{
+  "_id": "Louga_2024-11",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.20094057233701404,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.036649726097154445,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 37.091702785932114,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:38:56.431067",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Louga",
+  "year": 2024
+},
+{
+  "_id": "Louga_2024-12",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1748933295022448,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.039140557199661315,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.42553989128254,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:39:26.023071",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Louga",
+  "year": 2024
+},
+{
+  "_id": "Louga_2025-01",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.18426112867371608,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03696601103313066,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.242664830124568,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:39:55.229212",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-02",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.16830129507797598,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03614342763212513,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.066548658478837,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:40:23.648485",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-03",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.14238778321891093,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.036364257130129585,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.62242761756778,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:40:52.734622",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-04",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1193412544864107,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:41:20.291460",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2024-10",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.5193227350168305,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.27181586589164125,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.95362703756234,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:41:47.000236",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Kaffrine",
+  "year": 2024
+},
+{
+  "_id": "Kaffrine_2024-11",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.36515049453168075,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10825366856586567,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.36877098696016,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:42:16.056460",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Kaffrine",
+  "year": 2024
+},
+{
+  "_id": "Kaffrine_2024-12",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.17543949609124215,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10478797611114629,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.49250631714517,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:42:45.151164",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Kaffrine",
+  "year": 2024
+},
+{
+  "_id": "Kaffrine_2025-01",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.17401406031066846,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10392921446463042,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.6852231786246,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:43:13.617532",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-02",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19684952260960695,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10382383393276644,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.386092934035673,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:43:41.416519",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-03",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.16709817479701586,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10367352857133784,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 36.35617958987035,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:44:09.450204",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-04",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.16000349711953696,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:44:38.018604",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2024-10",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.5084565491051776,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.21845009914114638,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.33923593982928,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:45:04.969186",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Diourbel",
+  "year": 2024
+},
+{
+  "_id": "Diourbel_2024-11",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.38359105021622497,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09930271936138207,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.8314848985861,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:45:32.711400",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Diourbel",
+  "year": 2024
+},
+{
+  "_id": "Diourbel_2024-12",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.20490123747214506,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09765156221274711,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.068860414690505,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:46:00.666929",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Diourbel",
+  "year": 2024
+},
+{
+  "_id": "Diourbel_2025-01",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2117162825983376,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09672765037897116,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.601865916791155,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:46:28.815560",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-02",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.18616890517065207,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09543255085593398,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.723976229841526,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:46:58.418801",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-03",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.154114393129072,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09473568285616797,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.842653674843405,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:47:26.655542",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-04",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1618189296298482,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:47:56.298911",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2024-10",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.4795180544305195,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.3525698797379837,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.649309852904878,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:48:23.116235",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Sédhiou",
+  "year": 2024
+},
+{
+  "_id": "Sédhiou_2024-11",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.5703675892413677,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.14993182073797648,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.240878820938235,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:48:51.716421",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Sédhiou",
+  "year": 2024
+},
+{
+  "_id": "Sédhiou_2024-12",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.46230143015614533,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.13183912892405675,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.842151357393732,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:49:22.314324",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Sédhiou",
+  "year": 2024
+},
+{
+  "_id": "Sédhiou_2025-01",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.37297054442882227,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.13056942660461712,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.240488294230545,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:49:51.581798",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-02",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.35159962664137373,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.12951240967347794,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.55865054484815,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:50:21.663314",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-03",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3132712348201255,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.12833362143897037,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.359023725030113,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:50:50.100986",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-04",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.27960223776579635,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:51:19.741772",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2024-10",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2635555341509526,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.33318017332826855,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.31373050425111,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:51:46.653866",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Kédougou",
+  "year": 2024
+},
+{
+  "_id": "Kédougou_2024-11",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.5181083021015713,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.12052367990561315,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.52411471294414,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:52:15.745533",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Kédougou",
+  "year": 2024
+},
+{
+  "_id": "Kédougou_2024-12",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.33503665790786136,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10929447813235771,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.320094427338006,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:52:43.899305",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Kédougou",
+  "year": 2024
+},
+{
+  "_id": "Kédougou_2025-01",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2833637678564587,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10895552359671934,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.83114488703194,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:53:14.818208",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-02",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.23222306660364692,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10885548912249957,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.258338921127745,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:53:45.053750",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-03",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.15313733808600605,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10871233821351887,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 38.73848881620796,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:54:14.234219",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-04",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.23565242956411567,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:54:42.866148",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Podor_2024-10",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.08862819232029799,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.04811855430588425,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.853356702292785,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:55:09.881102",
+    "status": "complete"
+  },
+  "month": 10,
+  "region": "Podor",
+  "year": 2024
+},
+{
+  "_id": "Podor_2024-11",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.09630678167074937,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03746752461754959,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.147491075598282,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:55:38.292164",
+    "status": "complete"
+  },
+  "month": 11,
+  "region": "Podor",
+  "year": 2024
+},
+{
+  "_id": "Podor_2024-12",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1672406279518814,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.038119583294929274,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.230255260252648,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:56:06.451038",
+    "status": "complete"
+  },
+  "month": 12,
+  "region": "Podor",
+  "year": 2024
+},
+{
+  "_id": "Podor_2025-01",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2000380619296307,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.0371517482241234,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.999797489894604,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:56:34.821584",
+    "status": "complete"
+  },
+  "month": 1,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-02",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.21902710139482617,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03606517173944234,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.16200727909103,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:57:03.054294",
+    "status": "complete"
+  },
+  "month": 2,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-03",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1985314397020943,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03428214587682902,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.87501677519111,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:57:31.106864",
+    "status": "complete"
+  },
+  "month": 3,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-04",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.22639937994708487,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-04-06T01:57:59.318753",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 4,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-05",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.0025579126216562415,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.046587154429445984,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.865056290654366,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:48:51.937333",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-06",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.005611486033698141,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.04347428215874566,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.13716225607385,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:49:28.664785",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-07",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.01611152184864114,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.06801884148710517,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.421330358962905,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:50:06.079561",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-08",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.014523977877825948,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1698350803826445,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.548501253292613,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:50:42.593516",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Dakar_2025-09",
+  "coordinates": [
+    -17.4677,
+    14.7167
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.004523334015103841,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:51:15.157000",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Dakar",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-05",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.15770883379718303,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09490216793519154,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.73681510133122,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:51:49.491590",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-06",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.16897978913365258,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.0943351766177619,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.08827395946753,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:52:21.348599",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-07",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.06380998747866526,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.11857077844792502,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.91129423470386,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:52:52.783890",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-08",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.10968502516474507,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.2410389615459895,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.86073592839466,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:53:24.461999",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Thiès_2025-09",
+  "coordinates": [
+    -16.9622,
+    14.8136
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.5222533964148276,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:53:55.376067",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Thiès",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-05",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.04269710843998753,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.0384907003188829,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.87717481876109,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:54:27.749388",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-06",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.009827445859123951,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03814827661665659,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.331036403906694,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:54:59.599223",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-07",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.005516296085456024,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.0419146724999775,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.923864598209377,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:55:32.413334",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-08",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": -0.004983671700547437,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1909872060913461,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.441595685882703,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:56:05.819507",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Saint-Louis_2025-09",
+  "coordinates": [
+    -16.4896,
+    16.0179
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.01742264448016589,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:56:35.050232",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Saint-Louis",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-05",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.31417349734019195,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.20175014083718126,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.858448139539064,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:57:07.502837",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-06",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2514933197070113,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.2613298110573013,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.73715668016939,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:57:44.194029",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-07",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1274107948245508,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.4469745893028056,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.619415477207724,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:58:16.468625",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-08",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.20572011030419549,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.46240056969387866,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.20859433328542,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:58:47.272570",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Ziguinchor_2025-09",
+  "coordinates": [
+    -16.2719,
+    12.5642
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.26290279119300747,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:59:17.782931",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Ziguinchor",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-05",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1276569653418649,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10820294102003818,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.60529920257767,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T01:59:50.815581",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-06",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.12755267005057078,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10898827798130913,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.22633415072545,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:00:20.895414",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-07",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.10358717641785553,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.2183584379840705,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.519624026497297,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:00:50.044560",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-08",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.23428440747470256,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.3497455941868203,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.576162370483814,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:01:19.477252",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Kaolack_2025-09",
+  "coordinates": [
+    -16.2534,
+    14.1828
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2542001263450593,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:01:48.025408",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Kaolack",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-05",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.14172686093136383,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10807505739074307,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 36.761174145950406,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:02:19.126259",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-06",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1958772420819015,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.12412375765011428,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.83207872567368,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:02:48.135294",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-07",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3703118350962151,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.23382806225957956,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.2330827963778,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:03:17.235117",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-08",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.4561033493924108,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.34125268532526876,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.38126337724509,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:03:46.924525",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Tambacounda_2025-09",
+  "coordinates": [
+    -13.6673,
+    13.7708
+  ],
+  "data": {},
+  "metadata": {
+    "processed_at": "2025-09-07T02:04:16.784738",
+    "status": "partial",
+    "vegetation_error": "Image.normalizedDifference: No band named 'B8'. Available band names: [].",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Tambacounda",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-05",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.11492846637605772,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.004022272321957225,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 36.83515009765506,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:04:59.109458",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-06",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.14470527879356196,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.01494566385771436,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.9829861448319,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:05:29.040897",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-07",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.12032375016884736,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.05786677920486881,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.21618855186165,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:05:58.121254",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-08",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19998858169384826,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1600886217684507,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 28.53028726453971,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:06:29.980621",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Matam_2025-09",
+  "coordinates": [
+    -13.2556,
+    15.6553
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.284181227984101,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:06:59.369632",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Matam",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-05",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.24760175180773336,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10996490824125726,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.48417793666249,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:07:31.514658",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-06",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2852089654281086,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.13049825883964378,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.39861243413725,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:08:01.795437",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-07",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.18374556428835903,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.33894420258958674,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.730483078994155,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:08:48.300730",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-08",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3835703178682751,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.39781650197378887,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.687085829112164,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:09:19.281516",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Kolda_2025-09",
+  "coordinates": [
+    -14.9389,
+    12.8927
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3592185998836441,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:09:51.834823",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Kolda",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-05",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.13989953147865636,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1122064133913828,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.680216288993336,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:10:25.518966",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-06",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.13622980833105047,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.11281401063535383,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 36.263038053254036,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:10:54.808819",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-07",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.05960355430147299,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.19683630416696393,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 33.36731582565477,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:11:25.112228",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-08",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.13760835204732697,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.32925041875755007,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.492961043365142,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:11:55.168650",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Fatick_2025-09",
+  "coordinates": [
+    -16.4183,
+    14.3431
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.24934466821918164,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:12:26.623739",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Fatick",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-05",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.11195660229132043,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.035015522251316565,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.14860084614054,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:12:58.564464",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-06",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.11952811686919114,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.03434049253034409,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 36.44697075742545,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:13:28.698164",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-07",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.06729306148592462,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.037251131763094025,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.3144040501067,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:13:58.324427",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-08",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.17972921453988988,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.17423077015510793,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.154878896935656,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:14:28.583411",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Louga_2025-09",
+  "coordinates": [
+    -16.231,
+    15.61
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.24067821925699162,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:15:02.568716",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Louga",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-05",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.07268697150933646,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10365810107960584,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.18942156686933,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:15:34.907301",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-06",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.11962526884426893,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.10502265800926378,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.79818804352374,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:16:05.745699",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-07",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.07760046000004917,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.20360258642564802,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.41545251459712,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:19:52.548605",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-08",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.29282858214062235,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.3647796528102315,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.26070141680816,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:20:26.083298",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Kaffrine_2025-09",
+  "coordinates": [
+    -15.5434,
+    14.1052
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1498002953752241,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:20:56.803222",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Kaffrine",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-05",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1334305182103912,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09365848984775181,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.310352188643606,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:21:29.700845",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-06",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.13935207137538924,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.09490728315964245,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 36.15935307403896,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:22:03.823482",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-07",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.0719624881064977,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1736179293786817,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 34.701961050803845,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:22:36.479109",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-08",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1984305217231345,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.2779507651545637,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 26.55151947889283,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:23:08.843856",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Diourbel_2025-09",
+  "coordinates": [
+    -16.2366,
+    14.6605
+  ],
+  "data": {},
+  "metadata": {
+    "processed_at": "2025-09-07T02:23:37.674765",
+    "status": "partial",
+    "vegetation_error": "Image.normalizedDifference: No band named 'B8'. Available band names: [].",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Diourbel",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-05",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.27310012927259514,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.13026070014181895,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 30.846808633563455,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:24:19.201522",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-06",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.31895113641518585,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.17007347159567696,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.73259375483309,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:24:50.642501",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-07",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.11431962749852372,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.365122803990772,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 24.766339584113325,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:25:20.165770",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-08",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.22889746076174228,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.4032142027858083,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 25.458255400962685,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:25:49.804969",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Sédhiou_2025-09",
+  "coordinates": [
+    -15.556,
+    12.7089
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.37981051235429186,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:26:19.865078",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Sédhiou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-05",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.2477671964082409,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1277739896484685,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.16939361952342,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:26:53.045201",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-06",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.28066790046919077,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.17729417636717634,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 29.342672615434026,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:27:23.083631",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-07",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3170646497236596,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.3063315426248278,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 27.179596949593417,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:27:53.486833",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-08",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.3266438280550007,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.38726534803440765,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 23.97970754395368,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:28:23.661065",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Kédougou_2025-09",
+  "coordinates": [
+    -12.174,
+    12.5611
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.14039436508126454,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:28:55.788972",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Kédougou",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-05",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.19954744272579913,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.017570379243286027,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.22774788364188,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:29:29.107316",
+    "status": "complete"
+  },
+  "month": 5,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-06",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.20131396761426013,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.01676518368118032,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 35.737300375227505,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:29:58.833251",
+    "status": "complete"
+  },
+  "month": 6,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-07",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.14249677519718337,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.030484291660119317,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 32.22524580351825,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:30:28.890610",
+    "status": "complete"
+  },
+  "month": 7,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-08",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1755844595205916,
+      "source": "Sentinel-2/MODIS"
+    },
+    "soil": {
+      "moisture": 0.1259422865749239,
+      "source": "ERA5"
+    },
+    "temperature": {
+      "mean": 31.437506231424493,
+      "source": "MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:30:59.150388",
+    "status": "complete"
+  },
+  "month": 8,
+  "region": "Podor",
+  "year": 2025
+},
+{
+  "_id": "Podor_2025-09",
+  "coordinates": [
+    -14.9612,
+    16.6566
+  ],
+  "data": {
+    "vegetation": {
+      "ndvi": 0.1881582144185793,
+      "source": "Sentinel-2/MODIS"
+    }
+  },
+  "metadata": {
+    "processed_at": "2025-09-07T02:31:29.003387",
+    "status": "partial",
+    "soil_error": "Image.select: Band pattern 'volumetric_soil_water_layer_1' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands",
+    "temp_error": "Image.select: Band pattern 'temperature_2m' was applied to an Image with no bands. See https://developers.google.com/earth-engine/guides/debugging#no-bands"
+  },
+  "month": 9,
+  "region": "Podor",
+  "year": 2025
+}]
